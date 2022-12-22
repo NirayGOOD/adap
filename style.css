@@ -1204,7 +1204,8 @@ button:hover{
     }
 
     .text1Sec10{
-        margin-left: 15px;
+        margin-left: 20px;
+        flex-direction: column;
     }
 
     .input1{
